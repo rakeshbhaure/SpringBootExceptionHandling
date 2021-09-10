@@ -1,0 +1,2 @@
+# SpringBootExceptionHandling
+This Application Handles the Exceptions through GlobalExceptionHandler
